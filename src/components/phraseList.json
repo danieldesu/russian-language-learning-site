@@ -1,0 +1,86 @@
+[
+  {
+    "russianPhrase": "Не за что",
+    "englishPhrase": "You're welcome"
+  },
+  {
+    "russianPhrase": "Прошу прощения",
+    "englishPhrase": "I'm sorry"
+  },
+  {
+    "russianPhrase": "Я не понимаю",
+    "englishPhrase": "I don't understand"
+  },
+  {
+    "russianPhrase": "Я не говорю по-Русски",
+    "englishPhrase": "I don't speak Russian"
+  },
+  {
+    "russianPhrase": "вы говорите по-Английски?",
+    "englishPhrase": "Do you speak English?"
+  },
+  {
+    "russianPhrase": "Помогите, пожалуйста",
+    "englishPhrase": "Help me, please"
+  },
+  {
+    "russianPhrase": "Где туалет?",
+    "englishPhrase": "Where is the bathroom?"
+  },
+  {
+    "russianPhrase": "Один билет, пожалуйста",
+    "englishPhrase": "One ticket, please"
+  },
+  {
+    "russianPhrase": "Доброе утро",
+    "englishPhrase": "Good morning"
+  },
+  {
+    "russianPhrase": "Добрый день",
+    "englishPhrase": "Good afternoon"
+  },
+  {
+    "russianPhrase": "Добрый вечер",
+    "englishPhrase": "Good evening"
+  },
+  {
+    "russianPhrase": "Как дела?",
+    "englishPhrase": "How are you?"
+  },
+  {
+    "russianPhrase": "Хорошо, спасибо",
+    "englishPhrase": "I'm fine, thank you"
+  },
+  {
+    "russianPhrase": "Как вас зовут?",
+    "englishPhrase": "What's your name?"
+  },
+  {
+    "russianPhrase": "Меня зовут...",
+    "englishPhrase": "My name is..."
+  },
+  {
+    "russianPhrase": "Приятно познакомиться",
+    "englishPhrase": "It's nice to meet you"
+  },
+  {
+    "russianPhrase": "До свидания",
+    "englishPhrase": "Goodbye"
+  },
+  {
+    "russianPhrase": "Доброй ночи",
+    "englishPhrase": "Good night"
+  },
+  {
+    "russianPhrase": "Где...?",
+    "englishPhrase": "Where is...?"
+  },
+  {
+    "russianPhrase": "Можно меню, пожалуйста?",
+    "englishPhrase": "Could I have the menu, please?"
+  },
+  {
+    "russianPhrase": "Сколько стоит?",
+    "englishPhrase": "How much is it?"
+  }
+]

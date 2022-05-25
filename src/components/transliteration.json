@@ -1,0 +1,194 @@
+[
+  {
+    "upperCyrillic": "А",
+    "upperLatin": "A",
+    "lowerCyrillic": "а",
+    "lowerLatin": "а"
+  },
+  {
+    "upperCyrillic": "Б",
+    "upperLatin": "B",
+    "lowerCyrillic": "б",
+    "lowerLatin": "b"
+  },
+  {
+    "upperCyrillic": "В",
+    "upperLatin": "V",
+    "lowerCyrillic": "в",
+    "lowerLatin": "v"
+  },
+  {
+    "upperCyrillic": "Г",
+    "upperLatin": "G",
+    "lowerCyrillic": "г",
+    "lowerLatin": "g"
+  },
+  {
+    "upperCyrillic": "Д",
+    "upperLatin": "D",
+    "lowerCyrillic": "д",
+    "lowerLatin": "d"
+  },
+  {
+    "upperCyrillic": "Е",
+    "upperLatin": "E",
+    "lowerCyrillic": "е",
+    "lowerLatin": "e"
+  },
+  {
+    "upperCyrillic": "Ё",
+    "upperLatin": "E",
+    "lowerCyrillic": "ё",
+    "lowerLatin": "e"
+  },
+  {
+    "upperCyrillic": "Ж",
+    "upperLatin": "ZH",
+    "lowerCyrillic": "ж",
+    "lowerLatin": "zh"
+  },
+  {
+    "upperCyrillic": "З",
+    "upperLatin": "Z",
+    "lowerCyrillic": "з",
+    "lowerLatin": "z"
+  },
+  {
+    "upperCyrillic": "И",
+    "upperLatin": "I",
+    "lowerCyrillic": "и",
+    "lowerLatin": "i"
+  },
+  {
+    "upperCyrillic": "Й",
+    "upperLatin": "I",
+    "lowerCyrillic": "й",
+    "lowerLatin": "i"
+  },
+  {
+    "upperCyrillic": "К",
+    "upperLatin": "K",
+    "lowerCyrillic": "к",
+    "lowerLatin": "k"
+  },
+  {
+    "upperCyrillic": "Л",
+    "upperLatin": "L",
+    "lowerCyrillic": "л",
+    "lowerLatin": "l"
+  },
+  {
+    "upperCyrillic": "М",
+    "upperLatin": "M",
+    "lowerCyrillic": "м",
+    "lowerLatin": "m"
+  },
+  {
+    "upperCyrillic": "Н",
+    "upperLatin": "H",
+    "lowerCyrillic": "н",
+    "lowerLatin": "h"
+  },
+  {
+    "upperCyrillic": "О",
+    "upperLatin": "O",
+    "lowerCyrillic": "о",
+    "lowerLatin": "o"
+  },
+  {
+    "upperCyrillic": "П",
+    "upperLatin": "P",
+    "lowerCyrillic": "п",
+    "lowerLatin": "p"
+  },
+  {
+    "upperCyrillic": "Р",
+    "upperLatin": "R",
+    "lowerCyrillic": "р",
+    "lowerLatin": "r"
+  },
+  {
+    "upperCyrillic": "С",
+    "upperLatin": "S",
+    "lowerCyrillic": "с",
+    "lowerLatin": "s"
+  },
+  {
+    "upperCyrillic": "Т",
+    "upperLatin": "T",
+    "lowerCyrillic": "т",
+    "lowerLatin": "t"
+  },
+  {
+    "upperCyrillic": "У",
+    "upperLatin": "U",
+    "lowerCyrillic": "у",
+    "lowerLatin": "u"
+  },
+  {
+    "upperCyrillic": "Ф",
+    "upperLatin": "F",
+    "lowerCyrillic": "ф",
+    "lowerLatin": "f"
+  },
+  {
+    "upperCyrillic": "Х",
+    "upperLatin": "KH",
+    "lowerCyrillic": "х",
+    "lowerLatin": "kh"
+  },
+  {
+    "upperCyrillic": "Ц",
+    "upperLatin": "TS",
+    "lowerCyrillic": "ц",
+    "lowerLatin": "ts"
+  },
+  {
+    "upperCyrillic": "Ч",
+    "upperLatin": "CH",
+    "lowerCyrillic": "ч",
+    "lowerLatin": "ch"
+  },
+  {
+    "upperCyrillic": "Ш",
+    "upperLatin": "SH",
+    "lowerCyrillic": "ш",
+    "lowerLatin": "sh"
+  },
+  {
+    "upperCyrillic": "Щ",
+    "upperLatin": "SHCH",
+    "lowerCyrillic": "щ",
+    "lowerLatin": "shch"
+  },
+  {
+    "upperCyrillic": "Ъ",
+    "upperLatin": "IE",
+    "lowerCyrillic": "ъ",
+    "lowerLatin": "ie"
+  },
+  {
+    "upperCyrillic": "Ы",
+    "upperLatin": "Y",
+    "lowerCyrillic": "ы",
+    "lowerLatin": "y"
+  },
+  {
+    "upperCyrillic": "Э",
+    "upperLatin": "E",
+    "lowerCyrillic": "э",
+    "lowerLatin": "e"
+  },
+  {
+    "upperCyrillic": "Ю",
+    "upperLatin": "IU",
+    "lowerCyrillic": "ю",
+    "lowerLatin": "iu"
+  },
+  {
+    "upperCyrillic": "Я",
+    "upperLatin": "IA",
+    "lowerCyrillic": "я",
+    "lowerLatin": "ia"
+  }
+]

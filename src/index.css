@@ -1,0 +1,287 @@
+html {
+  background-color: white;
+  font-size: 10px;
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0 auto;
+  min-height: 100%;
+  background: linear-gradient(
+      217deg,
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0) 70.71%
+    ),
+    linear-gradient(336deg, rgba(214, 38, 24, 0.8), rgba(214, 38, 24, 0) 70.71%),
+    linear-gradient(127deg, rgba(0, 54, 167, 0.8), rgba(0, 54, 167, 0) 70.71%);
+}
+
+/* Header */
+
+.header {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.header a img {
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.header a {
+  color: #f4e7e6;
+  text-decoration: none;
+}
+
+.header a h1 {
+  font-size: 4rem;
+  margin: 0px auto 40px auto;
+  font-family: "Koulen", cursive;
+  text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* END Header */
+
+/* Mainmenu */
+
+.mainmenu__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.mainmenu__container a {
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+.mainmenu__item {
+  width: 20rem;
+  padding: 2px 0px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0px 4px 6px rgba(1, 57, 166, 0.4);
+  background: linear-gradient(
+    217deg,
+    rgb(255, 199, 199),
+    rgba(234, 225, 255, 0.5) 70.71%
+  );
+  color: rgb(76, 22, 22);
+  transition: all 0.3s;
+  text-shadow: 0px 0px 1px rgb(0, 0, 0, 0.5);
+}
+
+.mainmenu__container a:nth-child(2n + 1) .mainmenu__item {
+  box-shadow: 0px 4px 6px rgba(213, 43, 30, 0.4);
+}
+
+.mainmenu__item p {
+  text-transform: uppercase;
+}
+
+.mainmenu__container a:hover .mainmenu__item {
+  box-shadow: 0px 8px 6px rgba(162, 40, 162, 0.4);
+  background: linear-gradient(217deg, #ffe0ff, rgb(255, 255, 255) 70.71%);
+  border-radius: 20px;
+  color: black;
+}
+
+#buymeacoffee:hover .mainmenu__item {
+  background: linear-gradient(217deg, #ffcbcb, rgb(255, 255, 255) 80%);
+}
+
+/* END Mainmenu */
+
+/* Letter game */
+
+.letterGame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto 100px auto;
+  font-weight: bold;
+}
+
+.letterGameDisplay__Header {
+  position: relative;
+  width: 80%;
+}
+.letterGameDisplay__Header h4 {
+  color: rgb(59, 59, 59);
+  text-align: center;
+  margin: 5px auto 0 auto;
+  font-size: 1rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.letterGameDisplay__Header span #correctCounter,
+.letterGameDisplay__Header #correctCounterText {
+  color: rgb(0, 99, 86);
+  text-align: center;
+  margin: 20px auto 0 auto;
+  font-size: 1.3rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.letterGameDisplay {
+  color: #0e2551;
+  width: 100%;
+  max-width: 300px;
+  max-height: 250px;
+  border-radius: 10px;
+  margin: 0px auto 10px auto;
+  font-size: 6.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 6px 6px rgba(162, 40, 162, 0.25);
+  background: linear-gradient(217deg, #ffe0ff, rgb(255, 218, 218) 70.71%);
+}
+
+.letterGameDisplay #targetLetter {
+  text-shadow: 0px 0px 4px rgb(0, 0, 0, 0.5);
+}
+
+.letterGameDisplay__Inputs {
+  position: relative;
+  width: 100%;
+}
+
+.letterGameDisplay__Inputs input[type="text"] {
+  width: 70px;
+  top: -40px;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  border-radius: 3px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.5);
+  border: none;
+  position: absolute;
+  text-align: center;
+}
+
+.letterGameDisplay__Inputs input[type="text"]:hover,
+.letterGameDisplay__Inputs input[type="text"]:focus {
+  background-color: #fbf3f3;
+}
+
+.letterGameDisplay__Inputs input[type="submit"] {
+  width: 80px;
+  top: -20px;
+  border-radius: 3px;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  border: none;
+  text-align: center;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(217deg, #ffe0ff, rgb(255, 218, 218) 70.71%);
+  position: absolute;
+}
+
+.letterGameDisplay__Inputs input[type="submit"]:hover {
+  background: linear-gradient(217deg, #f5d4f5, rgb(245, 207, 207) 70.71%);
+  color: rgb(87, 0, 0);
+}
+
+/* END Letter game */
+
+/* Cheatsheet */
+
+.cheatsheet {
+  position: relative;
+}
+
+.cheatsheet h1 {
+  color: rgb(252, 255, 226);
+  text-align: center;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+  font-size: 3rem;
+  position: absolute;
+  margin-left: auto;
+  margin-top: auto;
+  left: 0;
+  right: 0;
+  top: -20px;
+}
+
+.cheatsheet__grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  text-align: center;
+  font-size: 2.5rem;
+  justify-content: center;
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 25px 10px 30px 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  gap: 3rem;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+}
+.cheatsheet__grid div {
+  white-space: nowrap;
+}
+
+.cheatsheet__grid span {
+  font-size: 2rem;
+  color: rgb(10, 10, 10);
+}
+
+/* END Cheatsheet*/
+
+/* Words & Phrases*/
+
+.wordContainer {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  text-align: center;
+  font-size: 1.5rem;
+  justify-content: center;
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 25px 10px 30px 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  gap: 3rem;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+}
+
+.wordContainer__item h3 {
+  color: rgb(10, 10, 10);
+}
+
+/* END Words & Phrases*/
+
+@media only screen and (max-width: 788px) {
+  .cheatsheet__grid {
+    grid-template-columns: auto auto;
+  }
+
+  .wordContainer {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .wordContainer {
+    font-size: 1rem;
+  }
+}

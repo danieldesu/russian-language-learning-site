@@ -1,0 +1,82 @@
+[
+  {
+    "russianWord": "Да",
+    "englishWord": "Yes"
+  },
+  {
+    "russianWord": "Нет",
+    "englishWord": "No"
+  },
+  {
+    "russianWord": "Пожалуйста",
+    "englishWord": "Please"
+  },
+  {
+    "russianWord": "Спасибо",
+    "englishWord": "Thank you"
+  },
+  {
+    "russianWord": "Извините",
+    "englishWord": "Excuse me"
+  },
+  {
+    "russianWord": "Привет",
+    "englishWord": "Hello"
+  },
+  {
+    "russianWord": "Завтрак",
+    "englishWord": "Breakfast"
+  },
+  {
+    "russianWord": "Обед",
+    "englishWord": "Lunch"
+  },
+  {
+    "russianWord": "Ужин",
+    "englishWord": "Dinner"
+  },
+  {
+    "russianWord": "Наличные",
+    "englishWord": "Cash"
+  },
+  {
+    "russianWord": "супермаркет",
+    "englishWord": "Supermarket"
+  },
+  {
+    "russianWord": "Сейчас",
+    "englishWord": "Now"
+  },
+  {
+    "russianWord": "Сегодня",
+    "englishWord": "Today"
+  },
+  {
+    "russianWord": "Завтра",
+    "englishWord": "Tomorrow"
+  },
+  {
+    "russianWord": "Вчера",
+    "englishWord": "Yesterday"
+  },
+  {
+    "russianWord": "Утро",
+    "englishWord": "Morning"
+  },
+  {
+    "russianWord": "День",
+    "englishWord": "Afternoon"
+  },
+  {
+    "russianWord": "Вечер",
+    "englishWord": "Evening"
+  },
+  {
+    "russianWord": "Сегодня днем",
+    "englishWord": "This afternoon"
+  },
+  {
+    "russianWord": "Сегодня вечером",
+    "englishWord": "This evening"
+  }
+]
